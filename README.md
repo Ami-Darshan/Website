@@ -1,6 +1,5 @@
 ### Description
-
-A simple portfolio template for developer/designers built with React.
+Personal Portfolio
 ### Features
 
 - Fully Responsive
@@ -13,14 +12,17 @@ A simple portfolio template for developer/designers built with React.
 
 Get the code
  
-Install required dependencies
+Install required dependencies 
 
 <pre>yarn install</pre>
+or
+<pre>npm install</pre>
 
 
 Start the server
 
 <pre>yarn start</pre>
+<pre>npm run start</pre>
 
 ### More
 
