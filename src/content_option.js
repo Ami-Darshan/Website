@@ -116,21 +116,21 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "pdldarshan008@gmail.com",
-    YOUR_FONE: "9702627315",
+    YOUR_EMAIL: "Enter your mail here",
+    YOUR_FONE: "Your Phone_Number",
     description: "Feel free to reach out to me using the provided information; however, please be aware that there might be a delay in my response",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_n487cwq",
-    YOUR_TEMPLATE_ID: "template_6c13rxp",
-    YOUR_USER_ID: "pn6wxwruhpaFfpJmL",
+    YOUR_SERVICE_ID: "service_id",
+    YOUR_TEMPLATE_ID: "template_id",
+    YOUR_USER_ID: "USER___ID",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://www.facebook.com/profile.php?id=100084426002544",
-    linkedin: "https://www.linkedin.com/in/darshan-mob/",
-    twitter: "https://twitter.com",
+    github: "Your GitHub Profile Link",
+    facebook: "Your facebook Profile Link",
+    linkedin: "Your Linkedin Profile Link",
+    twitter: "Your Twitter Profile Link",
 };
 export {
     meta,
